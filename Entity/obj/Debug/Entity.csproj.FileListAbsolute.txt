@@ -1,0 +1,17 @@
+C:\Users\Rocka\source\repos\Entity\Entity\bin\Debug\Entity.dll
+C:\Users\Rocka\source\repos\Entity\Entity\bin\Debug\Entity.pdb
+C:\Users\Rocka\source\repos\Entity\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Rocka\source\repos\Entity\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Rocka\source\repos\Entity\Entity\obj\Debug\Entity.dll
+C:\Users\Rocka\source\repos\Entity\Entity\obj\Debug\Entity.pdb
+C:\Users\User\Desktop\cp\Entity\Entity\bin\Debug\Entity.dll
+C:\Users\User\Desktop\cp\Entity\Entity\bin\Debug\Entity.pdb
+C:\Users\User\Desktop\cp\Entity\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\User\Desktop\cp\Entity\Entity\obj\Debug\Entity.dll
+C:\Users\User\Desktop\cp\Entity\Entity\obj\Debug\Entity.pdb
+H:\C#\cp\cp\Entity\Entity\bin\Debug\Entity.dll
+H:\C#\cp\cp\Entity\Entity\bin\Debug\Entity.pdb
+H:\C#\cp\cp\Entity\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+H:\C#\cp\cp\Entity\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+H:\C#\cp\cp\Entity\Entity\obj\Debug\Entity.dll
+H:\C#\cp\cp\Entity\Entity\obj\Debug\Entity.pdb
