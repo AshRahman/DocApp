@@ -21,3 +21,5 @@ From 'Manage Doctor' option the manager can enter into the 'Manage Doctors form'
 From 'Manage admins' option the manager can add new employees by filling up all the necessary information. And can delete employees also.
 
 Anyone can 'LogOut' from any current form and the application also contains 'Back' options to the places where it's necessary.
+
+The file Titled as "DOCAPP" is file for Miscrosoft SQL server 2012! Simply restore the backup file in SQL server! 
