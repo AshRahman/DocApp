@@ -22,4 +22,4 @@ From 'Manage admins' option the manager can add new employees by filling up all 
 
 Anyone can 'LogOut' from any current form and the application also contains 'Back' options to the places where it's necessary.
 
-The file Titled as "DOCAPP" is file for Miscrosoft SQL server 2012! Simply restore the backup file in SQL server! 
+
